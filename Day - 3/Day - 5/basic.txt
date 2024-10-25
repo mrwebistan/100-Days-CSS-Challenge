@@ -1,0 +1,8 @@
+<svg>
+    <polyline points="9,46 50,12 90,23 130,11 171,38 211,48 251,19"></polyline>
+</svg>
+
+
+
+/* google font */
+@import url(https://fonts.googleapis.come/css?family=Open+Sans:600,400);
